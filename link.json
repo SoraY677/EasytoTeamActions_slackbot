@@ -1,0 +1,22 @@
+{
+    "github": {
+        "fallback": "Fallback text",
+        "author_name": "SoraY677のgithub",
+        "author_link": "https://github.com/SoraY677",
+        "color": "#2e2e2e"
+    },
+
+    "twitter": {
+        "fallback": "Fallback text",
+        "author_name": "SoraY677のTwitter",
+        "author_link": "https://twitter.com/TenYDGB",
+        "color": "#1da1f2"
+    },
+
+    "Qiita": {
+        "fallback": "Fallback text",
+        "author_name": "SoraY677のQiita",
+        "author_link": "https://qiita.com/SoraY677",
+        "color": "#55c500"
+    }
+}
