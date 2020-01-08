@@ -1,4 +1,6 @@
-API_TOKEN = "xoxb-815973624656-883040763954-gbYNgWqDuc9VlLcWNrNJNFq5"
+import os
+
+API_TOKEN = os.environ['SLACKBOT_API']
 
 DEFAULT_REPLY = "hogehoge"
 
