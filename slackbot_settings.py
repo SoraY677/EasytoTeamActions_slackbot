@@ -1,4 +1,4 @@
-API_TOKEN = "hoge"
+API_TOKEN = None
 
 DEFAULT_REPLY = "hogehoge"
 
